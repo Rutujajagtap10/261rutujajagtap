@@ -1,27 +1,9 @@
-#assignment 1B
+#assignment 1c
 
-my_list=[10,100,1000]
+a= int(input("enter a value of a = "))
+b= int(input("enter a value of b = "))
+c = a+b
+print("addition is = ",c)
 
-my_list.insert(2,1)
-print("insert operation = ")
-print(my_list)
-
-my_list.remove(1)
-print("remove operation = ")
-print(my_list)
-
-my_list.append(10000)
-print("append operation =")
-print(my_list)
-
-my_list.sort()
-print("sort operation = ")
-print(my_list)
-
-my_list.reverse()
-print("reverse operation = ")
-print(my_list)
-
-my_list.pop()
-print("pop operation =")
-print(my_list)
+d =a-b
+print("substraction is= ",d)
