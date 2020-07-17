@@ -1,0 +1,8 @@
+#assignment 1D
+
+a=int(input("enter the value of a = "))
+b=int(input("enter the value of b = "))
+c=a/b
+d=a%b
+print("division of number = ",c)
+print("modulus of number = ",d)  

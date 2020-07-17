@@ -1,0 +1,4 @@
+#assignment 1A
+
+My_string="Hello World!"
+print(My_string)
