@@ -1,26 +1,26 @@
 #assignment 1B
 
 my_list=[10,100,1000]
-my_list.insert(2,1)
+my_list.insert(2,1)                       # insert 1 at position 2                       
 print("insert operation = ")
 print(my_list)
 
-my_list.remove(1)
+my_list.remove(1)                         #remove 1
 print("remove operation = ")
 print(my_list)
 
-my_list.append(10000)
+my_list.append(10000)                     #add 10000 at last
 print("append operation =")
 print(my_list)
 
-my_list.sort()
+my_list.sort()                            #sort list
 print("sort operation = ")
 print(my_list)
 
-my_list.reverse()
+my_list.reverse()                        #reverse list
 print("reverse operation = ")
 print(my_list)
 
-my_list.pop()
+my_list.pop()                           #pop operation 
 print("pop operation =")
 print(my_list)
